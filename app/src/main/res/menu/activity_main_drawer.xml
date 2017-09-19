@@ -24,11 +24,10 @@
             android:icon="@drawable/about_app"
             android:title="About App"
             />
-
-        <item
-            android:id="@+id/logout"
-            android:icon="@drawable/log_out_24dp"
-            android:title="Logout" />
+         <item
+            android:id="@+id/committee"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="Committees" />
 
         <item
             android:id="@+id/support"
@@ -39,6 +38,11 @@
             android:id="@+id/share"
             android:icon="@drawable/ic_share_black_24dp"
             android:title="Share" />
+        
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/log_out_24dp"
+            android:title="Logout" />
     </group>
 
 
